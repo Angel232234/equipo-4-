@@ -1,0 +1,17 @@
+# Archivos temporales del sistema
+.DS_Store
+Thumbs.db
+*.tmp
+
+# Archivos de Hadoop y logs pesados
+*.tar.gz
+*.log
+logs/
+
+# Carpetas de salida temporal o caches
+__pycache__/
+*.pyc
+
+# IDEs
+.vscode/
+.idea/
