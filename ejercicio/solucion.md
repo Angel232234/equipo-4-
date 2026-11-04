@@ -61,3 +61,4 @@ hadoop jar $HADOOP_HOME/share/hadoop/mapreduce/hadoop-mapreduce-examples-3.3.6.j
   hadoop jar hadoop-mapreduce-examples-3.3.6.jar pi 0 1000
   ```
   Hadoop arroja una excepción de validación o finaliza con un error indicando que los parámetros deben ser enteros positivos mayores a cero (`IllegalArgumentException` o división por cero al calcular la fracción de puntos).
+

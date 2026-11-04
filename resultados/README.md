@@ -52,3 +52,4 @@ Y luego, para copiarlo a tu computadora:
 # 💻 En la terminal de tu computadora:
 docker cp hadoop:/tmp/salida_pi.txt resultados/salida_consola.txt
 ```
+

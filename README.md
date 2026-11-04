@@ -8,9 +8,9 @@
 ---
 
 ## 👥 1. Integrantes del Equipo
-* **Integrante 1:** [Nombre y Apellidos]
-* **Integrante 2:** [Nombre y Apellidos]
-* **Integrante 3:** [Nombre y Apellidos]
+* **Integrante 1:** [Cuellar Ponce Angel Fernando]
+* **Integrante 2:** [Aguilera Chavez Josue ]
+* **Integrante 3:** [Jacobo Galindo Saul]
 
 ---
 
@@ -315,3 +315,4 @@ bda-equipo-4-pi/
 └── presentacion/
     └── guia_diapositivas.md  <- Guion y contenido para generar presentacion.pdf
 ```
+

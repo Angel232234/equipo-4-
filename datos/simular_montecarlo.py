@@ -38,3 +38,4 @@ if __name__ == "__main__":
     print(f"Valor estimado de Pi: {pi_calculado:.8f}")
     print(f"Valor real de Pi:     {pi_real:.8f}")
     print(f"Error relativo:       {error:.4f}%")
+

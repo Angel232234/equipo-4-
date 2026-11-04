@@ -86,3 +86,4 @@ Esta guía contiene la estructura diapositiva por diapositiva para preparar su p
 
 > 📌 **Recordatorio final:**  
 > Una vez diseñada la presentación, guárdala como PDF con el nombre exacto `presentacion.pdf` en la raíz del repositorio antes de hacer `git push`.
+

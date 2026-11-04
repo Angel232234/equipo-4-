@@ -69,3 +69,4 @@ Samples per Map = 10000
 		Peak Reduce Virtual Memory (bytes)=2905100288
 Job Finished in 32.54 seconds
 Estimated value of Pi is 3.14120000000000000000
+

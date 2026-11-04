@@ -62,3 +62,4 @@ Ejecuta el cálculo con:
 
 4. **Pregunta de análisis 3:**  
    ¿Qué pasaría si ejecutamos el comando con `0` Maps o `0` Muestras? Pruébalo y describe el resultado.
+

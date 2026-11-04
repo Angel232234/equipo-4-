@@ -21,3 +21,4 @@ En el caso particular del ejemplo `pi` de Hadoop MapReduce (**QuasiMonteCarlo**)
 
 ### Script de Apoyo Local (`simular_montecarlo.py`)
 Para entender intuitivamente el método antes o después de ejecutar Hadoop, se incluye en esta carpeta el script `simular_montecarlo.py`, el cual realiza una simulación básica de Monte Carlo en Python de manera local para comparar conceptos.
+
